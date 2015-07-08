@@ -1,15 +1,6 @@
-```bash
-################################################################################
-#
-#   couchdb-tools.sh v1.14
-#
-# A set of functions for handling CouchDB from the command line
-#
-#
-#                                       Perica Veljanovski, February 2014
-#                                       fBSDmon@gmail.com
-#
-################################################################################
+A bash library for handling CouchDB from the command line
+
+```
 Function:    couchConnect
 Description: usage: couchConnect [host=<hostname|ip_addr>] [port=<port_number>] [user=<user_name>] [pass=<password>] [protocol=<http|https>]
 
